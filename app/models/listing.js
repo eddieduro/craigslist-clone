@@ -7,5 +7,6 @@ export default DS.Model.extend({
   author: DS.attr(),
   location: DS.attr(),
   compensation: DS.attr(),
+  subcategory: DS.attr(),
   category: DS.belongsTo('category', {async:true})
 });

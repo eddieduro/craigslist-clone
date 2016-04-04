@@ -1,0 +1,24 @@
+{
+  "listings": [{
+    "title": "Billing Specialist",
+    "date": "04/04/2016",
+    "content": "We are a mid-sized law firm in downtown Seattle currently recruiting for a Billing Specialist. This position works closely with all departments in our firm to ensure that all invoices are submitted in a timely and accurate manner. This is a fast-paced position and requires strong organizational, as well as communication skills. The successful candidate will be a self-starter, detail oriented, able to work efficiently and balance multiple tasks within time constraints.",
+    "author": "Bob",
+    "location": "downtown",
+    "compensation": "1",
+    "subcategory": "tech"
+    },{
+      "title": "Grooming Specialist",
+      "date": "04/05/2016",
+      "content": "Exceptional attention to detail Ability to effectively organize work and manage time, Ability to work within tight deadlines, Ability to work independently and in teams",
+      "author": "Bob",
+      "location": "downtown",
+      "compensation": "100",
+      "subcategory": "design"
+  }],
+  "categories": [{
+    "name": "jobs"
+  }, {
+    "name": "gigs"
+  }]
+}
