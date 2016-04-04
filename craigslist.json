@@ -6,18 +6,34 @@
     "author": "Bob",
     "location": "downtown",
     "compensation": "1",
-    "subcategory": "tech"
-    },{
+    "subcategory": "tech",
+    "category":  "0"
+    }, {
+    "title": "Tech Specialist",
+    "date": "04/05/2016",
+    "content": "Exceptional attention to detail Ability to effectively organize work and manage time, Ability to work within tight deadlines, Ability to work independently and in teams",
+    "author": "Bob",
+    "location": "downtown",
+    "compensation": "100",
+    "subcategory": "tech",
+    "category":  "0"
+    }, {
       "title": "Grooming Specialist",
       "date": "04/05/2016",
       "content": "Exceptional attention to detail Ability to effectively organize work and manage time, Ability to work within tight deadlines, Ability to work independently and in teams",
       "author": "Bob",
       "location": "downtown",
       "compensation": "100",
-      "subcategory": "design"
+      "subcategory": "design",
+      "category": "0"
   }],
   "categories": [{
-    "name": "jobs"
+    "name": "jobs",
+    "listings": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
   }, {
     "name": "gigs"
   }]
